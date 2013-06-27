@@ -20,4 +20,5 @@ echo Run Complete. Starting Paraview...
 
 runApplication paraFoam
 
+echo Finished.
 # ----------------------------------------------------------------- end-of-file
